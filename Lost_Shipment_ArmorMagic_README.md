@@ -1,6 +1,6 @@
 Lost Shipment - Armor Magic
 
-No publishing
+Not for publishing
 
 AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539
 
