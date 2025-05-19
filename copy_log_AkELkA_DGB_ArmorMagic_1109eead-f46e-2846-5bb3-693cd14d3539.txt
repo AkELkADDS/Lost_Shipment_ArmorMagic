@@ -1,0 +1,283 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+   Mon 05/19/2025  4:13:40.20 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\Stats\Object.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\TreasureTable\TreasureTable.stats 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\5208df9f-4353-40ac-8246-43bf068f9896.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\562abd48-cac0-466e-a9bb-3aaa701a743f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\5d5ef1e1-31fd-499f-a17d-1a770aa4f6c8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\93b4a6dc-6caa-4b5f-abbc-4b1003a965a8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\b58da70a-4fc8-4150-8a5f-a227d9aa2fe7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\Generated\TreasureTable.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\Generated\Data\Object.txt 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 7 
+ 
+[LOG] Total files found across all folders: 14 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 to Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using destination: Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:13:43 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\meta.lsx100%  
+	    New File  		  168556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   165.2 k   165.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 4:13:43 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 to "Editor\Mods"\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using destination: Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:13:45 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4076	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\Stats\Object.stats100%  
+	    New File  		  195149	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\TreasureTable\TreasureTable.stats100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         7         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   194.5 k   194.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           199225000 Bytes/sec.
+   Speed :           11399.745 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:13:45 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 to Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using destination: Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:13:47 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   10432	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\meta.lsx100%  
+	    New File  		  168556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\mod_publish_logo.png100%  
+	    New File  		    2020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   176.7 k   176.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            90504000 Bytes/sec.
+   Speed :            5178.680 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:13:47 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 to Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[DEBUG] Using destination: Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 4:13:48 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+     Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    3115	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\5208df9f-4353-40ac-8246-43bf068f9896.lsf  0%  100%  
+	    New File  		    3171	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\562abd48-cac0-466e-a9bb-3aaa701a743f.lsf100%  
+	    New File  		    3124	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\5d5ef1e1-31fd-499f-a17d-1a770aa4f6c8.lsf100%  
+	    New File  		    3301	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\93b4a6dc-6caa-4b5f-abbc-4b1003a965a8.lsf100%  
+	    New File  		    3165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\RootTemplates\b58da70a-4fc8-4150-8a5f-a227d9aa2fe7.lsf100%  
+	    New File  		   20251	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\Generated\TreasureTable.txt100%  
+	    New File  		    1027	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539\Stats\Generated\Data\Object.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         1         0         0         0
+   Files :         7         7         0         0         0         0
+   Bytes :    36.2 k    36.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            12384666 Bytes/sec.
+   Speed :             708.656 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:13:48 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 7 
+[DEBUG] Successfully copied files: 7 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539: 
+      Total files: 7 
+      Copied successfully: 7 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_ArmorMagic_1109eead-f46e-2846-5bb3-693cd14d3539 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 7 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 14 
+[SUMMARY] Total files successfully copied: 28 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

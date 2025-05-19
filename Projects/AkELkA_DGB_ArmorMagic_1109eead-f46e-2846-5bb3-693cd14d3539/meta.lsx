@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="1109eead-f46e-2846-5bb3-693cd14d3539"/>
+            <attribute id="Name" type="LSString" value="AkELkA_DGB_ArmorMagic"/>
+            <attribute id="UUID" type="LSString" value="98ac57e6-e754-308a-c7e9-bdcb7a9d5cf5"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

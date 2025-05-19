@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ac8374cf-9107-4cdc-88c3-9403eb53a8c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELkA_Chest_CF_MagicBoots_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b58da70a-4fc8-4150-8a5f-a227d9aa2fe7" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="20" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a1f59e76-545e-4696-9f75-33db396e0200" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELkA_Chest_CF_MagicArmor_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="93b4a6dc-6caa-4b5f-abbc-4b1003a965a8" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="20" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="22a7d148-c75d-4f6c-b95e-703b98547fb7" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELkA_Chest_CF_MagicGlovebox_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5d5ef1e1-31fd-499f-a17d-1a770aa4f6c8" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="20" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Small" enumeration_type_name="ObjectSize" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="445d96b9-3831-447c-b7d0-4b2242084a4a" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELkA_Chest_CF_MagicCapes_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5208df9f-4353-40ac-8246-43bf068f9896" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="20" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="15" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Small" enumeration_type_name="ObjectSize" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6b4352ed-5f9d-4f40-aa47-a665da7198f2" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AkELkA_Chest_CF_MagicHelmets_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="562abd48-cac0-466e-a9bb-3aaa701a743f" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="20" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
